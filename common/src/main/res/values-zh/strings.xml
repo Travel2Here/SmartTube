@@ -25,11 +25,11 @@
   <string name="subtitles_disabled">字幕关闭</string>
   <string name="auto_frame_rate">自动帧率</string>
   <string name="frame_rate_correction">修正 fps:\n%s</string>
-  <string name="category_background_playback">背景播放</string>
+  <string name="category_background_playback">后台播放</string>
   <string name="not_implemented">不可运行</string>
   <string name="option_background_playback_off">关闭</string>
   <string name="option_background_playback_pip">画中画</string>
-  <string name="option_background_playback_only_audio">只有声音</string>
+  <string name="option_background_playback_only_audio">只听声音</string>
   <string name="playback_settings">播放设置</string>
   <string name="video_speed">播放速度</string>
   <string name="resolution_switch">画质</string>
@@ -138,9 +138,9 @@
   <string name="action_video_zoom">视频缩放</string>
   <string name="video_zoom">视频缩放</string>
   <string name="video_zoom_default">预设</string>
-  <string name="video_zoom_fit_width">符合宽度</string>
-  <string name="video_zoom_fit_height">符合高度</string>
-  <string name="video_zoom_fit_both">符合屏幕长宽</string>
+  <string name="video_zoom_fit_width">匹配宽度</string>
+  <string name="video_zoom_fit_height">匹配高度</string>
+  <string name="video_zoom_fit_both">匹配屏幕长宽</string>
   <string name="video_zoom_stretch">延伸</string>
   <string name="color_scheme_teal">蓝绿色</string>
   <string name="color_scheme_teal_oled">蓝绿色（OLED）</string>
